@@ -1,5 +1,17 @@
 ![OpenWrt logo](include/logo.png)
 
+## Benton SN-R1 support (work in progress)
+
+This fork adds OpenWrt support for the Benton SN-R1 (MT7981B, 1 GB RAM,
+128 GB eMMC, MT7976C Wi-Fi). The work is on the `benton-sn-r1-support`
+branch and has been submitted upstream:
+
+- Pull request: https://github.com/openwrt/openwrt/pull/25096
+- Forum thread: https://forum.openwrt.org/t/253504
+- Maintainer: Hasanul Kabir (@gitkabir)
+
+---
+
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
 of trying to create a single, static firmware, OpenWrt provides a fully
 writable filesystem with package management. This frees you from the
